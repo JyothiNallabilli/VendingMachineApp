@@ -10,7 +10,6 @@ A simple Java-based console application that simulates a vending machine. Users 
 - Insert money and track balance
 - Purchase items and reduce quantity
 - Refund remaining balance
-- (Optional) Restock items
 
 ## 📦 Classes
 
